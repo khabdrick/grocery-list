@@ -27,7 +27,7 @@ SECRET_KEY = "x7h23o3m+a=(xmrqrc937t7=%zaqye!r3aj&k&t1@j*yfc1n(i"
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['http://khabdrick.pythonanywhere.com']
+ALLOWED_HOSTS = ['khabdrick.pythonanywhere.com']
 
 LOGIN_REDIRECT_URL = "index"
 LOGOUT_REDIRECT_URL = "users:login"
